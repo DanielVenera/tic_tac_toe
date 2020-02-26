@@ -39,7 +39,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  nokogiri
+
   rspec
   rubocop (~> 0.57.2)
 
